@@ -1,6 +1,6 @@
 ## Texto exemplo de alteração de commit
 
-Esse é um texto exemmplo
+Esse é um texto exemmplo para estudos
 
 # AllBooks
 
