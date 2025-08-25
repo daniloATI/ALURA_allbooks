@@ -1,6 +1,10 @@
+## Texto exemplo de alteração de commit
+
+Esse é um texto exemmplo
+
 # AllBooks
 
-O AllBooks é uma loja virtual que vende livros da Casa do Código. 
+O AllBooks é uma loja virtual que vende livros da Casa do Código
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
 # JSONServer + JWT Auth
