@@ -1,7 +1,6 @@
 ## Texto exemplo de alteração de commit
 
-Esse é um texto exemmplo para estudos DANILO 2
-TOCANTINS
+Texto inserido via Terminal
 
 # AllBooks
 
