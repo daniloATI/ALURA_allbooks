@@ -1,6 +1,6 @@
 ## Texto exemplo de alteração de commit
 
-Texto inserido via Terminal
+Texto inserido via Terminal 2
 
 # AllBooks
 
