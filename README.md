@@ -1,7 +1,7 @@
 ## Texto exemplo de alteração de commit
 
 Texto inserido via Terminal 2
-Versão 2.0
+Versão 2.1
 
 # AllBooks
 
