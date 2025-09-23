@@ -5,7 +5,7 @@ name: Workflow de Contínuos Integration
 
 on:
     pull_request:
-    branches: [ "main" ]
+      branches: [ "main" ]
 
 jobs:
   continuous-integration:
