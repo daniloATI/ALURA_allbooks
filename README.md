@@ -1,4 +1,4 @@
-## Texto exemplo de alteração de commit 2.0
+## Texto exemplo de alteração de commit 3.0
 
 Texto inserido via Terminal 2
 Versão 2.1
